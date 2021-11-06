@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PEMROGRAMMAN_2.iml" filepath="$PROJECT_DIR$/.idea/PEMROGRAMMAN_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.falaharfani.pbo.modul05/com.falaharfani.pbo.modul05.iml" filepath="$PROJECT_DIR$/com.falaharfani.pbo.modul05/com.falaharfani.pbo.modul05.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.falaharfani.pbo.modul2/com.falaharfani.pbo.modul2.iml" filepath="$PROJECT_DIR$/com.falaharfani.pbo.modul2/com.falaharfani.pbo.modul2.iml" />
     </modules>
   </component>
